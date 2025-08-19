@@ -1,4 +1,7 @@
-# Core code for Heat-health warning system preventing rising global heat-related mortality in a warming climate: projections through 2090
+# Heat-health warning system preventing rising global heat-related mortality in a warming climate: projections through 2090
+
+# Core code for heatwave-related mortality and early warning benefits
+
 ---
 
 ## Overview
