@@ -1,11 +1,9 @@
 # Heat-health warning system preventing rising global heat-related mortality in a warming climate: projections through 2090
 
-# Core code for heatwave-related mortality and early warning benefits
-
 ---
 
 ## Overview
-
+Core code for heatwave-related mortality and early warning benefits.
 The uploaded script `core_pipeline.py` implements the **four key components** of the analysis:
 
 1. **Baseline threshold (97.5th percentile)**  
