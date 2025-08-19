@@ -1,10 +1,4 @@
-# Heat-health warning system preventing rising global heat-related mortality in a warming climate: projections through 2090
-
-# Core code for heatwave-related mortality and early warning benefits
-
-This repository provides the **core analysis script** used in support of a research article currently under submission.  
-(Article information such as DOI and citation will be updated once publication details are available.)
-
+# Core code for Heat-health warning system preventing rising global heat-related mortality in a warming climate: projections through 2090
 ---
 
 ## Overview
