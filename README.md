@@ -18,11 +18,7 @@ The uploaded script `core_pipeline.py` implements the **four key components** of
    - Count the number of days above the baseline threshold for future climate scenarios.  
 
 3. **Excess deaths (ED)**  
-   - Calculate annual excess deaths using the formula  
-     \[
-     ED = (RR - 1) \times D
-     \]  
-     where RR = relative risk, D = annual average daily deaths.  
+   - Calculate annual excess deaths.
 
 4. **Early warning benefits**  
    - Estimate benefits for population ≥65 and <65 years, based on reduced risk per heatwave day.  
